@@ -1,0 +1,8 @@
+C:\Users\vitva\DEVELHOPE\SPRINGBOOT\Redis\Redis\src\main\java\co\develhope\redisCache\repositories\jpa\UserRepositoryJPA.java
+C:\Users\vitva\DEVELHOPE\SPRINGBOOT\Redis\Redis\src\main\java\co\develhope\redisCache\configuration\RedisConfiguration.java
+C:\Users\vitva\DEVELHOPE\SPRINGBOOT\Redis\Redis\src\main\java\co\develhope\redisCache\controllers\UserController.java
+C:\Users\vitva\DEVELHOPE\SPRINGBOOT\Redis\Redis\src\main\java\co\develhope\redisCache\services\UserService.java
+C:\Users\vitva\DEVELHOPE\SPRINGBOOT\Redis\Redis\src\main\java\co\develhope\redisCache\entities\jpa\UserJPA.java
+C:\Users\vitva\DEVELHOPE\SPRINGBOOT\Redis\Redis\src\main\java\co\develhope\redisCache\entities\redis\UserRedis.java
+C:\Users\vitva\DEVELHOPE\SPRINGBOOT\Redis\Redis\src\main\java\co\develhope\redisCache\repositories\redis\UserRepositoryRedis.java
+C:\Users\vitva\DEVELHOPE\SPRINGBOOT\Redis\Redis\src\main\java\co\develhope\redisCache\RedisCacheApplication.java
